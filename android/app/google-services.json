@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243120786919",
+    "project_id": "e-cart-a1fee",
+    "storage_bucket": "e-cart-a1fee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243120786919:android:826eca2271f49d486ec142",
+        "android_client_info": {
+          "package_name": "ashwin95.com.example.ecart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243120786919-cm5g562t59j0uudsub7h7voa7gaeks27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLpkaUG6NlSYxsxyapRuJuYhkUQPmDboI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243120786919-cm5g562t59j0uudsub7h7voa7gaeks27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
